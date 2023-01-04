@@ -172,6 +172,10 @@ input[type="range"]::-webkit-slider-runnable-track {
         max-height: 100vh;
         max-width: 100vw;
         padding: 10em 2em;
+        background-image: url(images/bg-desktop.png);
+        background-size: contain;
+        background-position: 0% 120%;
+        background-color: hsl(229, 57%, 11%);
     }
 
     main {
